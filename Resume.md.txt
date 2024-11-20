@@ -1,0 +1,55 @@
+# Mackenzie Santor-Vaz
+Address: example
+Phone Number: example
+mackenzie.santor-vaz@uconn.edu  
+[My LinkedIn Profile](www.linkedin.com/in/mackenzie-santor-vaz-329444174)
+
+## Professional Skills
+
+Experienced with MS Office Suite, ArcGIS, QGIS, SQL, ArcGIS Online, AutoCAD:Civil 3D
+
+## Professional Experience
+
+### Souder, Miller and Associates (Albuquerque, NM)
+**Staff 1 Engineer (September 2022- August 2023)**
+* **Assisted** Project Engineer with Water Resources projects by:
+  * Reviewing construction submittals
+  * Compiling contract documents,  technical specifications, and financial data for state funding
+  * Creating exhibits for project locations and Engineers Probable Cost Estimates
+  * Corresponding with contractors and clients
+  * Attending pre-bid  and pre-construction conferences
+  * Researching construction part alternatives
+* Reviewing design drawings, operations manuals, and record plans
+* Updating deliverable templates and standard specification drawings
+* Helping clients to apply for EPA’s Lead and Copper Rule funding
+
+### Nevada Department of Transportation (Las Vegas, NV)
+**Public Service Intern (May 2019-August 2019)**
+* Identified major outfalls for District 1 in ArcGIS.
+* Gave presentations on environment topics to the crew.
+* Assisted with facility inspections, illicit discharges, & material sites specifically for storm water regulations
+* **Attended Tri-State Seminar** and several meetings with state and county officials.
+
+## Projects
+
+### University of Connecticut
+**Practicum (August 2024 - December 2024)**
+* Created an ArcGIS map layout that displays the best locations for residential land development based on area and proximity to oceanic resources in the Bay Area of CA.
+* Researched and collected data to aid in project analysis
+* Created a powerpoint presentation to show the analysis process
+
+### University of Connecticut
+**Environmental Planning  Project (August 2024 - December 2024)**
+* Work with a team to develop an environmental plan for potential oyster farms in the Gulf of Maine
+* Lead team meetings and assign tasks to be completed
+* Research the ethics and environmental impacts of oyster aquaculture
+
+### University of Connecticut
+**Applications of GIS Project (January 2024 - May 2024)**
+* Created an ArcGIS map layout that displayed the highest risk flood zones for schools, hospitals, nursing homes, and roads in San Francisco, CA
+* Researched and collected data to aid in project analysis
+* Created a powerpoint presentation to show the analysis process
+
+## Education
+[University of Nevada, Reno](www.unr.edu)
+[University of Connecticut](www.uconn.edu)
